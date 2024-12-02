@@ -1,0 +1,33 @@
+D:\6. PROYECTOS\DGII New\DGII New\bin\Debug\net6.0\appsettings.Development.json
+D:\6. PROYECTOS\DGII New\DGII New\bin\Debug\net6.0\appsettings.json
+D:\6. PROYECTOS\DGII New\DGII New\bin\Debug\net6.0\DGII New.exe
+D:\6. PROYECTOS\DGII New\DGII New\bin\Debug\net6.0\DGII New.deps.json
+D:\6. PROYECTOS\DGII New\DGII New\bin\Debug\net6.0\DGII New.runtimeconfig.json
+D:\6. PROYECTOS\DGII New\DGII New\bin\Debug\net6.0\DGII New.dll
+D:\6. PROYECTOS\DGII New\DGII New\bin\Debug\net6.0\DGII New.pdb
+D:\6. PROYECTOS\DGII New\DGII New\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\6. PROYECTOS\DGII New\DGII New\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\6. PROYECTOS\DGII New\DGII New\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\6. PROYECTOS\DGII New\DGII New\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\6. PROYECTOS\DGII New\DGII New\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\DGII New.csproj.AssemblyReference.cache
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\DGII New.GeneratedMSBuildEditorConfig.editorconfig
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\DGII New.AssemblyInfoInputs.cache
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\DGII New.AssemblyInfo.cs
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\DGII New.csproj.CoreCompileInputs.cache
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\DGII New.MvcApplicationPartsAssemblyInfo.cs
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\DGII New.MvcApplicationPartsAssemblyInfo.cache
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\staticwebassets\msbuild.DGII New.Microsoft.AspNetCore.StaticWebAssets.props
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\staticwebassets\msbuild.build.DGII New.props
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DGII New.props
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DGII New.props
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\staticwebassets.pack.json
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\staticwebassets.build.json
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\staticwebassets.development.json
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\scopedcss\bundle\DGII New.styles.css
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\DGII New.csproj.CopyComplete
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\DGII New.dll
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\refint\DGII New.dll
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\DGII New.pdb
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\DGII New.genruntimeconfig.cache
+D:\6. PROYECTOS\DGII New\DGII New\obj\Debug\net6.0\ref\DGII New.dll
